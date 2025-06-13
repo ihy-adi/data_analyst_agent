@@ -1,4 +1,4 @@
-![Unknown](https://github.com/user-attachments/assets/cebdb696-a027-49af-857c-5c5a924663d2)# Data Analyst Agent - Comprehensive Documentation
+## Data Analyst Agent - Comprehensive Documentation
 
 ## Overview
 
