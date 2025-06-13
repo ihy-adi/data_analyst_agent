@@ -1,4 +1,4 @@
-# Data Analyst Agent - Comprehensive Documentation
+![Unknown](https://github.com/user-attachments/assets/cebdb696-a027-49af-857c-5c5a924663d2)# Data Analyst Agent - Comprehensive Documentation
 
 ## Overview
 
@@ -225,7 +225,13 @@ Enter your choice (1 or 2): 2
 
 🔍 Analyzing sample data...
 📊 Generating visualizations...
-[Visualizations displayed]
+![Uploading Unknown.png…![Unknown-5](https://github.com/user-attachments/assets/0680a203-73f4-4565-b2a8-f110ef340e3c)
+![Unknown-4](https://github.com/user-attachments/assets/a76d232b-9e30-4bcb-bed6-dc3e1ec5a70d)
+![Unknown-3](https://github.com/user-attachments/assets/00d11aa0-a367-4823-9da0-eb72b912753d)
+![Unknown-2](https://github.com/user-attachments/assets/0f5a273d-cf8a-4bfa-8bbb-701393295ad8)
+![Unknown-1](https://github.com/user-attachments/assets/0da35b63-e772-4fff-aaea-0ac64bd4ccde)
+]()
+
 
 🔍 You can now ask questions about the data!
 Type 'exit', 'quit', or 'bye' to end the session.
