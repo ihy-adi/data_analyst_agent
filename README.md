@@ -211,6 +211,12 @@ The agent can be used in interactive mode, which provides a command-line interfa
 3. Asking questions about the data
 
 Example output:
+![Unknown](https://github.com/user-attachments/assets/2afb30be-98e1-4f3d-abfa-1302f4e915d7)
+![Unknown-1](https://github.com/user-attachments/assets/058ccfc8-f6da-4f7d-be19-a1a99bb7c133)
+![Unknown-2](https://github.com/user-attachments/assets/5c49bd50-67e1-4bbc-9160-8de82b0289cb)
+![Unknown-3](https://github.com/user-attachments/assets/c63cc6c9-615c-4e98-b37e-c29522f77fc9)
+![Unknown-4](https://github.com/user-attachments/assets/d05cd139-c84b-40cb-8fcf-8a2d38d71d5b)
+![Unknown-5](https://github.com/user-attachments/assets/fc8733b2-7bff-47b9-98f0-ad747b2857ba)
 
 ```
 🤖 Data Analyst Agent - Interactive Mode
@@ -225,12 +231,6 @@ Enter your choice (1 or 2): 2
 
 🔍 Analyzing sample data...
 📊 Generating visualizations...
-![Unknown](https://github.com/user-attachments/assets/2afb30be-98e1-4f3d-abfa-1302f4e915d7)
-![Unknown-1](https://github.com/user-attachments/assets/058ccfc8-f6da-4f7d-be19-a1a99bb7c133)
-![Unknown-2](https://github.com/user-attachments/assets/5c49bd50-67e1-4bbc-9160-8de82b0289cb)
-![Unknown-3](https://github.com/user-attachments/assets/c63cc6c9-615c-4e98-b37e-c29522f77fc9)
-![Unknown-4](https://github.com/user-attachments/assets/d05cd139-c84b-40cb-8fcf-8a2d38d71d5b)
-![Unknown-5](https://github.com/user-attachments/assets/fc8733b2-7bff-47b9-98f0-ad747b2857ba)
 
 🔍 You can now ask questions about the data!
 Type 'exit', 'quit', or 'bye' to end the session.
