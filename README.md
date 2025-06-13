@@ -225,13 +225,12 @@ Enter your choice (1 or 2): 2
 
 🔍 Analyzing sample data...
 📊 Generating visualizations...
-![Uploading Unknown.png…![Unknown-5](https://github.com/user-attachments/assets/0680a203-73f4-4565-b2a8-f110ef340e3c)
-![Unknown-4](https://github.com/user-attachments/assets/a76d232b-9e30-4bcb-bed6-dc3e1ec5a70d)
-![Unknown-3](https://github.com/user-attachments/assets/00d11aa0-a367-4823-9da0-eb72b912753d)
-![Unknown-2](https://github.com/user-attachments/assets/0f5a273d-cf8a-4bfa-8bbb-701393295ad8)
-![Unknown-1](https://github.com/user-attachments/assets/0da35b63-e772-4fff-aaea-0ac64bd4ccde)
-]()
-
+![Unknown](https://github.com/user-attachments/assets/2afb30be-98e1-4f3d-abfa-1302f4e915d7)
+![Unknown-1](https://github.com/user-attachments/assets/058ccfc8-f6da-4f7d-be19-a1a99bb7c133)
+![Unknown-2](https://github.com/user-attachments/assets/5c49bd50-67e1-4bbc-9160-8de82b0289cb)
+![Unknown-3](https://github.com/user-attachments/assets/c63cc6c9-615c-4e98-b37e-c29522f77fc9)
+![Unknown-4](https://github.com/user-attachments/assets/d05cd139-c84b-40cb-8fcf-8a2d38d71d5b)
+![Unknown-5](https://github.com/user-attachments/assets/fc8733b2-7bff-47b9-98f0-ad747b2857ba)
 
 🔍 You can now ask questions about the data!
 Type 'exit', 'quit', or 'bye' to end the session.
